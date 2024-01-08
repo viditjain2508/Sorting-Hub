@@ -373,7 +373,7 @@ const SortingHub = () => {
   const sizeArray = windowWidth > 750 ? [5, 10, 25] : [5, 10]
   return (
     <div>
-      <h1>Sorting Hub <BiSort /></h1>
+      <h1>Sortinbkkknkg Hub <BiSort /></h1>
       <div className='options'>
         {algo.name === "Insertion Sort" && <div className='temp'>Temp :{temp}</div>}
         {algo.name === "Heap Sort" && <div className='temp'>{text}</div>}
